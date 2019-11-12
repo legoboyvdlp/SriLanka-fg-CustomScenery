@@ -1,0 +1,24 @@
+# pylons_e070n00_e079n07_4249725
+# do not edit below this line
+# Last Written Sun Nov  3 17:04:57 2019
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 79.74790 7.99142 3.61 123.814
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 79.74525 7.99536 2.62 114.085
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 79.74440 7.99866 -0.00 104.515
+OBJECT_BUILDING_MESH_DETAILED e070n00_e079n07_4249725cables00049.ac 79.74581 7.99632 1.81 90
+OBJECT_SHARED Models/Power/windturbine.xml 79.74415 7.93984 5.00 0
+OBJECT_SHARED Models/Power/windturbine.xml 79.74287 7.94382 6.54 0
+OBJECT_SHARED Models/Power/windturbine.xml 79.74215 7.94713 6.96 0
+OBJECT_SHARED Models/Power/windturbine.xml 79.73967 7.95427 4.79 0
+OBJECT_SHARED Models/Power/windturbine.xml 79.73834 7.95777 6.43 0
+OBJECT_SHARED Models/Power/windturbine.xml 79.73675 7.96180 8.60 0
+OBJECT_SHARED Models/Power/windturbine.xml 79.73535 7.96476 2.60 0
+OBJECT_SHARED Models/Power/windturbine.xml 79.73257 7.97297 7.08 0
+OBJECT_SHARED Models/Power/windturbine.xml 79.73158 7.97638 5.12 0
+# END pylons_e070n00_e079n07_4249725
+# pylons_e070n00_e079n07_4249726
+# do not edit below this line
+# Last Written Sun Nov  3 18:58:52 2019
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 79.74790 7.99142 3.61 123.868
+# END pylons_e070n00_e079n07_4249726

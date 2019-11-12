@@ -1,0 +1,10 @@
+# piers_e080n00_e080n09_4266209
+# do not edit below this line
+# Last Written Mon Nov  4 08:08:04 2019
+#
+OBJECT_STATIC e080n00_e080n09_4266209piers0501.ac 80.22520 9.52712 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/SimpleFreighter.ac 80.23134 9.53143 -0.01 42.7927
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 80.23047 9.52926 -0.01 184.833
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 80.23046 9.52905 -0.01 124.833
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac 80.23040 9.52892 -0.01 208.812
+# END piers_e080n00_e080n09_4266209

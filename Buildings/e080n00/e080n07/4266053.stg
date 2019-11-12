@@ -1,0 +1,7 @@
+# osm2city_e080n00_e080n07_4266053
+# do not edit below this line
+# Last Written Mon Nov  4 06:08:14 2019
+#
+BUILDING_LIST e080n00_e080n07_4266053_buildings_shader.txt OSMBuildings 80.68750 7.06250 1332.82
+OBJECT_BUILDING_MESH_DETAILED e080n00_e080n07_4266053city00206.ac 80.67021 7.11941 1004.67 0
+# END osm2city_e080n00_e080n07_4266053

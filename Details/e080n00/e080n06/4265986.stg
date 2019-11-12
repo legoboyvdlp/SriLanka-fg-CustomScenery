@@ -1,0 +1,15 @@
+# pylonsDetails_e080n00_e080n06_4265986
+# do not edit below this line
+# Last Written Mon Nov  4 00:33:18 2019
+#
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac 80.25076 6.05164 11.59 294.386
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac 80.25131 6.05042 10.34 264.084
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac 80.25046 6.04926 10.66 234.251
+OBJECT_STATIC e080n00_e080n06_4265986dcables00003.ac 80.25049 6.04989 10.82 90
+# END pylonsDetails_e080n00_e080n06_4265986
+# piers_e080n00_e080n06_4265986
+# do not edit below this line
+# Last Written Mon Nov  4 00:33:19 2019
+#
+OBJECT_STATIC e080n00_e080n06_4265986piers0500.ac 80.34937 6.00904 0.00 0
+# END piers_e080n00_e080n06_4265986

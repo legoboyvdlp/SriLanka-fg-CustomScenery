@@ -1,0 +1,13 @@
+# pylons_e080n00_e080n08_4266119
+# do not edit below this line
+# Last Written Mon Nov  4 07:56:39 2019
+#
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 81.00029 8.00113 51.95 325.532
+# END pylons_e080n00_e080n08_4266119
+# pylons_e080n00_e081n08_4282496
+# do not edit below this line
+# Last Written Mon Nov  4 12:58:35 2019
+#
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac 81.00029 8.00113 51.95 325.118
+OBJECT_BUILDING_MESH_DETAILED e080n00_e081n08_4282496cables00001.ac 81.00135 8.00040 51.32 90
+# END pylons_e080n00_e081n08_4282496

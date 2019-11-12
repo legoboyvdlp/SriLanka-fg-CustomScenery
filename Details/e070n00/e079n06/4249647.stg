@@ -1,0 +1,17 @@
+# pylonsDetails_e070n00_e079n06_4249647
+# do not edit below this line
+# Last Written Sun Nov  3 16:11:59 2019
+#
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac 79.93073 6.72569 19.82 298.816
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac 79.93089 6.72541 15.74 298.816
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac 79.93073 6.72569 19.82 252.257
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac 79.93063 6.72538 16.49 252.257
+OBJECT_STATIC e070n00_e079n06_4249647dcables00027.ac 79.93076 6.72553 17.78 90
+# END pylonsDetails_e070n00_e079n06_4249647
+# platforms_e070n00_e079n06_4249647
+# do not edit below this line
+# Last Written Sun Nov  3 16:11:59 2019
+#
+OBJECT_STATIC e070n00_e079n06_4249647platforms0006.ac 79.88404 6.74255 0.00 0
+OBJECT_STATIC e070n00_e079n06_4249647platforms0104.ac 79.90213 6.70638 0.00 0
+# END platforms_e070n00_e079n06_4249647

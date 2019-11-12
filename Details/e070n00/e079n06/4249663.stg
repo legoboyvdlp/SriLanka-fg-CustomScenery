@@ -1,0 +1,38 @@
+# pylonsDetails_e070n00_e079n06_4249663
+# do not edit below this line
+# Last Written Sun Nov  3 18:46:40 2019
+#
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac 79.92806 6.91716 6.36 369.212
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac 79.92900 6.91731 6.64 369.249
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac 79.92965 6.91741 8.47 375.687
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac 79.93054 6.91778 11.90 382.167
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac 79.93178 6.91828 7.33 381.867
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac 79.93234 6.91850 7.81 381.487
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac 79.92903 6.87560 3.66 286.389
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac 79.99345 6.88566 31.60 318.685
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac 79.99404 6.88514 27.87 318.685
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac 79.94761 6.95604 21.98 181.573
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac 79.94742 6.95603 22.95 159.572
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac 79.94696 6.95645 23.28 137.57
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac 79.99345 6.88566 31.60 302.172
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac 79.99386 6.88501 28.61 302.172
+OBJECT_STATIC e070n00_e079n06_4249663dcables00015.ac 79.92919 6.87503 2.48 90
+OBJECT_STATIC e070n00_e079n06_4249663dcables00017.ac 79.92886 6.91728 7.42 90
+OBJECT_STATIC e070n00_e079n06_4249663dcables00024.ac 79.93100 6.91796 9.61 90
+OBJECT_STATIC e070n00_e079n06_4249663dcables00033.ac 79.94729 6.95624 22.63 90
+OBJECT_STATIC e070n00_e079n06_4249663dcables00043.ac 79.99374 6.88533 29.74 90
+# END pylonsDetails_e070n00_e079n06_4249663
+# platforms_e070n00_e079n06_4249663
+# do not edit below this line
+# Last Written Sun Nov  3 18:46:40 2019
+#
+OBJECT_STATIC e070n00_e079n06_4249663platforms0106.ac 79.90215 6.99255 0.00 0
+# END platforms_e070n00_e079n06_4249663
+# piers_e070n00_e079n06_4249663
+# do not edit below this line
+# Last Written Sun Nov  3 18:46:40 2019
+#
+OBJECT_STATIC e070n00_e079n06_4249663piers0303.ac 79.93834 6.93830 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 79.94495 6.93898 9.18 264.212
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 79.94665 6.93825 4.00 114.687
+# END piers_e070n00_e079n06_4249663
